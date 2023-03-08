@@ -9,11 +9,11 @@ Then save the file as a VBS File
 Double click on the VBS file. You are done
 Also delete the new text document we made at the start
 
-# Why?
-I dont know. Microsoft edge is trash/
+### Why?
+I dont know. Microsoft edge is trash
 
-# I agree
+### I agree
 Great
 
-# I do not agree
+### I do not agree
 GET OUT OF THIS REPO GET OUT OF AARAVORG GET OUT OF AARAVKRISHANCHUGH65
